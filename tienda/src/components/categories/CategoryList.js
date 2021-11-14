@@ -18,12 +18,11 @@ class CategoryList extends Component {
   render() {
     return (
       <div>
-        <h3>
-          <Badge color="warning">Kategoriler</Badge>
-        </h3>
+        <h3>Kategoriler</h3>
         <ListGroup>
           {this.props.categories.map((category) => (
             <ListGroupItem
+              style={{ fontSize: 18, marginTop: 10 }}
               active={category.id === this.props.currentCategory.id}
               onClick={() => this.selectCategory(category)}
               key={category.id}
