@@ -4,7 +4,7 @@
       "id": 1,
       "categoryId": 1,
       "productName": "Truffle B Burger",
-      "productImg":"https://cdn.yemeksepeti.com//ProductImages/TR_ISTANBUL/houseofb/trufflebburger_20210621112437_big.jpg",
+      "productImg":"https://cdn.getiryemek.com/products/1620137099933_500x375.jpeg",
       "productDesc": "150 gr. hamburger köftesi, cheddar peyniri, trüflü mayonez, turşu relish, karamelize soğan",
       "productPrice": "46"
     },
@@ -12,7 +12,7 @@
       "id": 2,
       "categoryId": 2,
       "productName": "Pizza Orta Boy",
-      "productImg": "https://www.gunceltarif.com/wp-content/uploads/P%C4%B0ZZAAAAAAAAAAA.jpg",
+      "productImg": "https://w7.pngwing.com/pngs/756/160/png-transparent-new-york-style-pizza-italian-cuisine-take-out-pasta-pizza.png",
       "productDesc": "Orta Boy - 26 CM",
       "productPrice": "35"
     },
@@ -28,49 +28,49 @@
       "id": 4,
       "categoryId": 4,
       "productName": "Kebap",
-      "productImg": "https://www.ustadonerci.com/media/products/tombik-et-doner.png",
-      "productDesc": "lezzetli döneri, taptaze marul, taze dilimlenmiş domates ve turşu ile...",
-      "productPrice": "28"
+      "productImg": "https://cdn.yemek.com/uploads/2014/08/kasibeyaz-bosphorus-subat-2020.jpg",
+      "productDesc": "lezzetli kebabı, bulgur pilavı, közde domates ile...",
+      "productPrice": "48"
     },
     {
       "id": 5,
       "categoryId": 5,
       "productName": "Köfte",
-      "productImg": "https://www.ustadonerci.com/media/products/tombik-et-doner.png",
-      "productDesc": "lezzetli döneri, taptaze marul, taze dilimlenmiş domates ve turşu ile...",
-      "productPrice": "28"
+      "productImg": "https://www.ustadonerci.com/media/products/8li-kofte-porsiyon.png",
+      "productDesc": "8'li köfte,lavaş,domates,soğan,turşu,pirinç pilavı",
+      "productPrice": "38"
     },
     {
       "id": 6,
       "categoryId": 6,
       "productName": "Makarna",
-      "productImg": "https://www.ustadonerci.com/media/products/tombik-et-doner.png",
-      "productDesc": "lezzetli döneri, taptaze marul, taze dilimlenmiş domates ve turşu ile...",
+      "productImg": "https://e7.pngegg.com/pngimages/94/423/png-clipart-pasta-pasta.png",
+      "productDesc": "bolonez soslu makarna rendelenmiş kaşar peyniri ile...",
       "productPrice": "28"
     },
     {
       "id": 7,
       "categoryId": 1,
-      "productName": "Hamburger",
-      "productImg": "https://www.ustadonerci.com/media/products/tombik-et-doner.png",
-      "productDesc": "lezzetli döneri, taptaze marul, taze dilimlenmiş domates ve turşu ile...",
+      "productName": "Islak Hamburger",
+      "productImg": "https://i2.milimaj.com/i/milliyet/75/0x410/5ec27c845542850d68dee500.jpg",
+      "productDesc": "lezzetli ıslak hamburger",
       "productPrice": "28"
     },
     {
       "id": 8,
       "categoryId": 2,
-      "productName": "Pizza",
-      "productImg": "https://www.ustadonerci.com/media/products/tombik-et-doner.png",
-      "productDesc": "lezzetli döneri, taptaze marul, taze dilimlenmiş domates ve turşu ile...",
-      "productPrice": "28"
+      "productName": "Pizza Mexico",
+      "productImg": "https://cdn.imgbin.com/15/1/4/imgbin-pizza-BPYkxWx0z6hex0seLjRg6pUNZ.jpg",
+      "productDesc": "lezzetli hamuru ve meksika acılı pizza",
+      "productPrice": "34"
     },
     {
       "id": 9,
       "categoryId": 3,
-      "productName": "Döner",
-      "productImg": "https://www.ustadonerci.com/media/products/tombik-et-doner.png",
-      "productDesc": "lezzetli döneri, taptaze marul, taze dilimlenmiş domates ve turşu ile...",
-      "productPrice": "28"
+      "productName": "Dürüm Et Döner",
+      "productImg": "https://static.wixstatic.com/media/21dc64_9a38db22f45a4db7bc64b4528901ae4d~mv2.png/v1/fill/w_446,h_250,al_c,q_85,usm_0.66_1.00_0.01/durum-et-doner_b.webp",
+      "productDesc": "lezzetli döneri, sıcacık lavaşa,patates kızartması, taze dilimlenmiş domates ve turşu ile...",
+      "productPrice": "26"
     }
     
   ],

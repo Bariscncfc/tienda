@@ -8,6 +8,7 @@ import {
   NavLink,
 } from "reactstrap";
 import CartSummary from "../cart/CartSummary";
+import { Link } from "react-router-dom";
 
 class Header extends React.Component {
   constructor(props) {
@@ -33,7 +34,11 @@ class Header extends React.Component {
           marginBottom: 50,
         }}
       >
-        <h1>Tienda</h1>
+        <h1>
+          <Link to={"/"} style={{ textDecoration: "none", color: "black" }}>
+            Tienda
+          </Link>
+        </h1>
         <Navbar light expand="md">
           <NavbarToggler onClick={this.toggle} />
           <Collapse isOpen={this.state.isOpen} navbar>
