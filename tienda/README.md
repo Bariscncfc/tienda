@@ -9,8 +9,11 @@ npm start
 ## Kullanılan kütüphaneler/araçlar
 
 1)React Js
+
 2)Redux
+
 3)Redux-Thunk
+
 4)Reactstrap
 
 
